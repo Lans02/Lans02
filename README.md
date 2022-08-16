@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwith G </h1>
-<span align="center">Github: @Lans02</span>
+<p align="center">Github: @Lans02 </p>
 <h3 align="center">I'm frontend developer 👨‍💻</h3>
  
 - 👀 I’m interested in ...
