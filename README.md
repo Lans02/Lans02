@@ -47,21 +47,10 @@
 
 ---
 
-### 📌 Featured Projects
-🔹 *(Agrega aquí tus proyectos más importantes)*
-
-- **Frontend App** – Responsive web app using React and Tailwind  
-  🔗 Live Demo | 📂 Repository
-
-- **Web Platform** – SPA built with Angular and Bootstrap  
-  🔗 Live Demo | 📂 Repository
-
----
-
 ### 📫 How to Reach Me
 
 - 💼 LinkedIn: [Dwith Gregory Newball](https://www.linkedin.com/in/dwith-g-newball-de-avila-72416463/)
-- 📧 Email: *(opcional)*
+- 📧 Email: dwithnewball@gmail.com
 
 ---
 
