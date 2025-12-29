@@ -78,6 +78,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dwith-g-newball-de-avila-72416463/
 - 💻 GitHub: https://github.com/Lans02
+- 📧 Email: dwithnewball@gmail.com
 
 ---
 
