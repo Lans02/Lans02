@@ -69,17 +69,6 @@
 
 ---
 
-## 📌 Featured Projects
-*(Puedes agregar aquí tus mejores proyectos)*
-
-- **Frontend Web App** – Built with React & Tailwind  
-  🔗 Demo | 📂 Repository
-
-- **SPA Platform** – Angular + Bootstrap  
-  🔗 Demo | 📂 Repository
-
----
-
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dwith-g-newball-de-avila-72416463/
