@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on building **modern, scalable and responsive web applications**
-- 🎨 Passionate about **UI/UX**, clean code, and performance
-- 🌱 Constantly learning modern JavaScript frameworks
-- 🤝 Open to collaborate on **frontend, educational and open-source projects**
-- 📍 Based in **Colombia**
+🎓 Frontend Developer with experience in building modern web applications.  
+🔭 Currently working on personal projects using **React, Angular, Vue and JavaScript**.  
+🌱 Constantly learning and improving my skills in **modern frontend technologies and best practices**.  
+💛 In my free time, I build projects to strengthen my skills and explore new tools.   
+💬 Feel free to reach out — I’m always open to collaborating and adding value to great projects.
 
 ---
 
