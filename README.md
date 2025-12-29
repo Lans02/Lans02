@@ -12,33 +12,48 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Frontend Developer with experience building **modern, scalable and responsive web applications**
-- 🎨 Focused on **UI/UX**, performance optimization, and clean code
-- 🌱 Constantly learning and improving skills in **modern JavaScript frameworks**
-- 🤝 Open to collaborate on **frontend projects, educational platforms, and open-source**
+- 💻 Frontend Developer focused on building **modern, scalable and responsive web applications**
+- 🎨 Passionate about **UI/UX**, clean code, and performance
+- 🌱 Constantly learning modern JavaScript frameworks
+- 🤝 Open to collaborate on **frontend, educational and open-source projects**
 - 📍 Based in **Colombia**
 
 ---
 
-### 🛠️ Frontend & Tools
----
+## 🛠️ Tech Stack
 
+### 🚀 Frontend Frameworks
 <p align="left">
-  <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
+</p>
 
-  <!-- Styling -->
+---
+
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</p>
+
+---
+
+### 🎨 UI / Styling
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+</p>
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+---
+
+### 🛠️ Tools & Platforms
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
@@ -46,11 +61,30 @@
 
 ---
 
-### 📫 How to Reach Me
-
-- 💼 LinkedIn: [Dwith Gregory Newball](https://www.linkedin.com/in/dwith-g-newball-de-avila-72416463/)
-- 📧 Email: dwithnewball@gmail.com
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories.*
+## 📌 Featured Projects
+*(Puedes agregar aquí tus mejores proyectos)*
+
+- **Frontend Web App** – Built with React & Tailwind  
+  🔗 Demo | 📂 Repository
+
+- **SPA Platform** – Angular + Bootstrap  
+  🔗 Demo | 📂 Repository
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dwith-g-newball-de-avila-72416463/
+- 💻 GitHub: https://github.com/Lans02
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
