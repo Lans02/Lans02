@@ -16,7 +16,9 @@
 
 🎓 Frontend Developer with experience in building modern web applications.  
 🔭 Currently working on personal projects using **React, Angular, Vue and JavaScript**.  
-🌱 Constantly learning and improving my skills in **modern frontend technologies and best practices**.  
+🌱 Constantly learning and improving my skills in **modern frontend technologies and best practices**.
+🌐 Experienced in working with **REST APIs**, handling asynchronous data and managing application state.  
+🧪 Comfortable using tools like **Postman** to test and validate API endpoints. 
 💛 In my free time, I build projects to strengthen my skills and explore new tools.   
 💬 Feel free to reach out — I’m always open to collaborating and adding value to great projects.
 
